@@ -1,4 +1,4 @@
-# TestGit
+# TestGit Main line1
 Git
 Line1
 Line2
@@ -11,5 +11,5 @@ Line3
 Line2
 Line1
 Line0
-Line50
+Line50 >>>>>>> main
 Editor in branch
